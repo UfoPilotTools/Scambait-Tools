@@ -4,7 +4,7 @@
  
 upNotepad
 
-upNotepadupNotepad replaces the good old Notepad.exe.
+upNotepad replaces the good old Notepad.exe.
 Most technical support scammers will use Notepad to describe their ‘services’, aso.
 upNotepad has some neat features which make their life like hell.
 Features :
