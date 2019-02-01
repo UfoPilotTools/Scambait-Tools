@@ -1,5 +1,5 @@
 # Scambait-Tools
- Windows tools for pranking technical support scammers when they are connected to your virtual machine (VM).
+A set of Windows tools for pranking technical support scammers when they are connected to your virtual machine (VM).
  
  
 upNotepad
