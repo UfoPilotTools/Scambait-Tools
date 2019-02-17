@@ -41,4 +41,4 @@ TIP 2: Remove the uninstall info in the Windows registery<br>
 <br>
 <br>
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=k9ovNANIr6g)
+[![Alt << SHOWCASE VIDEO >>](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=k9ovNANIr6g)
