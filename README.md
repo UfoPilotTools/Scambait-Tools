@@ -1,8 +1,6 @@
 # Scambait-Tools
  
-upNotepad
-
-upNotepad replaces the good old Notepad.exe.
+UPNotepad replaces the good old Notepad.exe.
 Most technical support scammers will use Notepad to describe their ‘services’, aso.
 upNotepad has some neat features which make their life like hell.
 Features :
@@ -17,7 +15,7 @@ Features :
 How to install?
 Before we start:
 
-    Install this program only on a virtual machines!
+    Please, install this program only on a virtual machine!
     You MUST HAVE owner rights for deleting or renaming msinfo32.exe in windows/system32. See also Tip 1 below.
 
  
