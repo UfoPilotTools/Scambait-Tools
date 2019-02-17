@@ -1,4 +1,4 @@
-# Scambait-Tools
+# UPNotepad
  
 UPNotepad replaces the good old Notepad.exe.
 Most technical support scammers will use Notepad to describe their ‘services’, aso.
