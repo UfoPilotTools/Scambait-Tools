@@ -1,5 +1,5 @@
-# UPNotepad }  a fake Notepad for Windows XP, Vista, 7, 8, and 10
- 
+# UPNotepad | a fake Notepad for Windows XP, Vista, 7, 8, and 10
+
 UPNotepad replaces the good old Notepad.exe.
 Most technical support scammers will use Notepad to describe their ‘services’, aso.
 UPNotepad has some neat features which make their life like hell.
