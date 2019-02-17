@@ -32,7 +32,7 @@ STEPS
     STEP 5: run the ‘new’ notepad.exe
     STEP 6: press CTRL + ALT + Q to open the settings  for tweaking UPNotepad
     
-TIP 1: TakeOwnershipEx is a free tool that allows you to get full access to files and folders
-       get it from: https://winaero.com/download.php?view.16
+TIP 1: TakeOwnershipEx is a free tool that allows you to get full access to files and folders.
+       You can get it from: https://winaero.com/download.php?view.16
 
 TIP 2: Remove the uninstall info in the registery
