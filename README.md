@@ -38,3 +38,6 @@ TIP 1: TakeOwnershipEx is a free tool that allows you to get full access to file
 TIP 2: Remove the uninstall info in the Windows registery<br>
        locate HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall 
        in the right pane delete the key: upnotepad
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k9ovNANIr6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
