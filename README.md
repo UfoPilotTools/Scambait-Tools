@@ -16,7 +16,7 @@ How to install?
 Before we start:
 
     Please, install this program only on a virtual machine!
-    You MUST HAVE owner rights for deleting or renaming msinfo32.exe in windows/system32. See also Tip 1 below.
+    You MUST HAVE owner rights for deleting or renaming notepad.exe in windows/system32. See also Tip 1 below.
 
  
 STEPS
