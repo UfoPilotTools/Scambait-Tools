@@ -3,6 +3,7 @@
 UPNotepad replaces the good old Notepad.exe.
 Most technical support scammers will use Notepad to describe their ‘services’, aso.
 UPNotepad has some neat features which make scammer's life like hell.
+
 Features :
 
     distorts typing
